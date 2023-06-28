@@ -1,3 +1,4 @@
 smp meffeng
 belajar github
 dasar-dasar belajar github
+tujuan mempelajari github
